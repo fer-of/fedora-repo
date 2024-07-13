@@ -4,15 +4,15 @@ Welcome to the Linux Commands Cheat Sheet repository! In this repository, you wi
 
 ## Table of Contents
 
-- [Files and Navigation](#files-and-navigation)
-- [User and Group Management](#user-and-group-management)
-- [System Info](#system-info)
-- [Permissions](#permissions)
-- [Processes](#processes)
-- [Networking](#networking)
-- [Compressing](#compressing)
-- [Package Management](#package-management)
-- [File Viewing and Editing](#file-viewing-and-editing)
+- Files and Navigation
+- User and Group Management
+- System Info
+- Permissions
+- Processes
+- Networking
+- Compressing
+- Package Management
+- File Viewing and Editing
 
 ## Available Versions
 
