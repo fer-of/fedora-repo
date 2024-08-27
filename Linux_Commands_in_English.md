@@ -53,6 +53,10 @@
   - Order - owner/group/world
 - `chmod 777 file` - rwx for everyone.
 - `chmod 755 file` - rw for owner, rx for group and others.
+- sudo chmod u+rw file for read and writing to the owner
+- sudo chmod a+rw file for for read and writing to all the users
+
+- You can check the permisions with ls -l file or ls -a
 
 ### Processes
 - `ps` - display running processes.
